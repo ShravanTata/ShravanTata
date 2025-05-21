@@ -4,7 +4,7 @@ Bio-robotics researcher with 6+ years experience in developing neuromechanical s
 I’m passionate about neural embodiment, robotics, intelligent-systems, open-science, scientific visualization, and computer graphics.
 
 ## 🚀 About Me
-- 👨‍💻 I’m currently working as a Postdoctoral fellow at DannerLab
+- 👨‍💻 I’m currently working as a Postdoctoral fellow at the [DannerLab](https://github.com/dannerlab/)
 <!--  - 🌱 I’m currently learning [New Technology/Skill]
 - 👯 I’m looking to collaborate on [Open Source Project/Interesting Idea]
 - 🤔 I’m looking for help with [Specific Issue/Project]
